@@ -14,11 +14,11 @@ owner:
   bio:            I've been working in software development since 2003, I've been a database guy, analytics guy, now I guess you would web guy! I'm interested in learning to be a good software craftsmen. Currently my focus, my passion is on using front end frameworks like Aurelia.
   # Social networking links used in footer. Update and remove as you like.
   twitter:
-  facebook:       http://www.facebook.com/nehal.soni
-  github:         https://github.com/ns6482
+  facebook:       nehal.soni
+  github:         ns6482
   stackexchange:
-  linkedin:       https://uk.linkedin.com/in/nehal-soni-68b6554
-  instagram:      https://www.instagram.com/nehalsoni
+  linkedin:       nehal-soni-68b6554
+  instagram:      nehalsoni
   flickr:         https://www.flickr.com/photos/nehalsoni/
   tumblr:
   # google plus id, include the '+', eg +mmistakes

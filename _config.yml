@@ -1,12 +1,12 @@
-title:            Hey, I'm Nehal
+title:            Nehal Soni's Ramblings
 description:      Technical Blog
 disqus_shortname:
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: http://www.webfync.com
-
+# url: http://www.webfync.com
+url :
 # Owner/author information
 owner:
   name:           Nehal Soni

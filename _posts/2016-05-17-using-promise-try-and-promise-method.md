@@ -57,7 +57,7 @@ function getUserId(userId) {
 }
 ```
 
-The result is the call is easier to read and takes out the effort of 'promisifying' the call. It doesn't interfere with our core logic in anyway. The previous example demanded we resolve the cached user in the promise.
+The result is the call is easier to read and takes out the effort of 'promisifying' the call. It doesn't interfere with our core logic in anyway. The previous example demanded we resolve the cached user in the promise. The use of `Promise.method` would be useful if we had many sync and async calls together.
 
 ### Handling sync errors
 

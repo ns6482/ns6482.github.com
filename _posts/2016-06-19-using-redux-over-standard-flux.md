@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experiment and journey with Redux
+title: Introducing Redux
 description: Case for using redux, sharing my learning experience and why to use it
 modified: 2016-06-19
 tags: [redux, aurelia, flux architecture]
